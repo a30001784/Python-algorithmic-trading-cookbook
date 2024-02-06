@@ -136,4 +136,5 @@ If you have any doubts related to the concepts or code samples in the book, you 
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838989354">https://packt.link/free-ebook/9781838989354 </a> </p>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838989354">https://packt.link/free-ebook/9781838989354 </a> </p>#   P y t h o n - a l g o r i t h m i c - t r a d i n g - c o o k b o o k  
+ 
